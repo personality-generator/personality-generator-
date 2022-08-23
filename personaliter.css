@@ -1,0 +1,21 @@
+p{
+ font-size: 50px;
+ color: yellow;
+ text-indent: 50px;
+ text-align: center;
+}
+.questions{
+  font-size: 10px;
+  color: yellow;
+}
+li{
+     font-size: 25px;
+}
+
+#back{
+  background-image: url(a.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+                    
